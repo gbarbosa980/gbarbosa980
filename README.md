@@ -69,7 +69,7 @@ Também estou direcionando meus estudos para **Cybersecurity**, buscando entende
 | 💻 **VS Code**             | Desenvolvimento e programação       |
 | 🐙 **Git & GitHub**        | Versionamento e colaboração         |
 | 🐧 **Linux**               | Ambiente e estudos de sistemas      |
-| 🗄️ **MySQL**               | Banco de dados                      |
+| 🗄️ **SQL**                 | Banco de dados                      |
 | 🤖 **APIs de IA**          | Inteligência artificial e automação |
 | 🔌 **REST APIs**           | Integração entre sistemas           |
 

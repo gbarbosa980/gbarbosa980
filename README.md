@@ -38,7 +38,7 @@ Estudante de **Engenharia de Software**, apaixonado por tecnologia, desenvolvime
 
 Atualmente focado em construir uma base sólida em **programação, desenvolvimento Full Stack, bancos de dados e engenharia de software**.
 
-Tenho interesse especial em **Inteligência Artificial, automação e sistemas inteligentes**.
+Tenho interesse especial em **Cibersegurança, automação e sistemas inteligentes**.
 
 Também estou direcionando meus estudos para **Cybersecurity**, buscando entender como criar aplicações mais seguras desde a arquitetura até a implementação.
 
